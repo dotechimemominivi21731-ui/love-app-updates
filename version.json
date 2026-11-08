@@ -1,1 +1,1 @@
-{"versionCode":96,"versionName":"9.3","apkPath":"https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v9.3.apk","changelog":"修复了情侣绑定申请收不到的问题：别人发来绑定申请时，“我的”页面会立刻显示“别人向你申请”卡片，不用退出重进就能点通过/拒绝；还加了一层兜底，就算申请消息来的时候没赶上，打开“我的”页也会把它找出来。"}
+{"versionCode":97,"versionName":"9.4","apkPath":"https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v9.4.apk","changelog":"情侣绑定申请改到私聊里处理了：别人发来绑定申请时，私聊里会出现一条申请消息，消息下面直接有 [通过] 和 [不通过] 两个按钮，点一下就能接受或拒绝，不用再去“我的”页面找；“我的”页里那个申请卡片去掉了。"}
