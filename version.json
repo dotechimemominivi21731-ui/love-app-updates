@@ -1,1 +1,1 @@
-{"versionCode":106,"versionName":"10.1","apkPath":"https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.1.apk","changelog":"情侣等级、邮件、签到改走服务器，更安全、更公平；修复了新绑定写不到服务器、领邮件不用验证真假、撤回后对方手机不实时消失、重装后等级丢失等 50 多处问题。"}
+{"apkPath":"https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.2.apk","changelog":"数据迁移更稳了：迁移触发点修了，不会再漏掉；领邮件的记录上限提到 1000 封；双设备迁移不再互相覆盖；好友的等级和称号现在实时更新；还修了管理员判断的小问题。","versionCode":107,"versionName":"10.2"}
