@@ -1,1 +1,1 @@
-{"apkPath": "https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.4.apk", "changelog": "公告修好了：现在找公告频道会把公开群列表翻页拉全，不会再因为频道不在前 20 个就建出重名群；刚换手机/重装时群主还没同步到，公告会先排队等着，不会直接丢掉；公告页还会显示当前频道的群 id，方便对上号。", "versionCode": 109, "versionName": "10.4"}
+{"apkPath": "https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.5.apk", "changelog": "全面修复：服务器堵住了伪造经验/称号的口子，发邮件只认系统公告群群主；公告和大厅找群改成翻页拉全，不会再建重名群；修了控制台闪退、发邮件重复、官网显示等 83 处问题。", "versionCode": 110, "versionName": "10.5"}
