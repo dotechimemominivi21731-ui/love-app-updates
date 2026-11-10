@@ -1,1 +1,1 @@
-{"apkPath":"https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.3.apk","changelog":"撤回修好了：你撤回一条消息，对方手机上也会跟着消失了——哪怕对方当时没在线，信号也会存着、等他上线再送到；大厅管理员撤回别人消息也一样，成员手机上那条也会消失。","versionCode":108,"versionName":"10.3"}
+{"apkPath": "https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.4.apk", "changelog": "公告修好了：现在找公告频道会把公开群列表翻页拉全，不会再因为频道不在前 20 个就建出重名群；刚换手机/重装时群主还没同步到，公告会先排队等着，不会直接丢掉；公告页还会显示当前频道的群 id，方便对上号。", "versionCode": 109, "versionName": "10.4"}
