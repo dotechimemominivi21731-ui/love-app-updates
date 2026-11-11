@@ -1,1 +1,1 @@
-{"apkPath": "https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.5.apk", "changelog": "全面修复：服务器堵住了伪造经验/称号的口子，发邮件只认系统公告群群主；公告和大厅找群改成翻页拉全，不会再建重名群；修了控制台闪退、发邮件重复、官网显示等 83 处问题。", "versionCode": 110, "versionName": "10.5"}
+{"apkPath": "https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.8.2.apk", "changelog": "旧手机不再闪退：修复了部分旧机型一打开 App 就闪退的问题；发邮件不再卡住，60 秒后自动放开；公告排队更稳，大厅里的玩笑消息不会再挤掉真正的系统公告；小文案更贴心。", "versionCode": 115, "versionName": "10.8.2"}
