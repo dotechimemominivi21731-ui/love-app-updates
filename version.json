@@ -1,1 +1,1 @@
-{"apkPath": "https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.8.10.apk", "changelog": "注销的账号会标出来：在用户大厅发过消息的账号，如果注销了，名字旁边会显示「已注销用户」，以后注销的账号也一样。", "versionCode": 123, "versionName": "10.8.10"}
+{"apkPath": "https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.8.12.apk", "changelog": "切换页面更顺滑：修了慢手机上导航栏指示器直接跳过去、玻璃和页面断开的问题；撤回更稳了：对方手机关着的时候撤回，打开聊天就消失，还加了每 15 分钟一次的后台检查，不用点开聊天也会消失；公告页修好了：修了离线发的公告回来不显示的问题，打开公告页就能看到。", "versionCode": 125, "versionName": "10.8.12"}
