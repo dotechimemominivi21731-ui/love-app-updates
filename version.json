@@ -1,1 +1,1 @@
-{"apkPath": "https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.8.9.apk", "changelog": "换号进大厅更稳了：修复了切换账号后，新账号进大厅发不出消息的问题；名字和日期按账号分开存：每个账号有自己的情侣名字和在一起的日期，换号不会再串了；注销更干净了：注销一个账号，会把这个号本地存的名字、日期、大厅记录、头像一起删掉。", "versionCode": 122, "versionName": "10.8.9"}
+{"apkPath": "https://3000-agq3t3mh6jzq2rqwlfbjtgx3iq.instabox.tech/download/love-v10.8.10.apk", "changelog": "注销的账号会标出来：在用户大厅发过消息的账号，如果注销了，名字旁边会显示「已注销用户」，以后注销的账号也一样。", "versionCode": 123, "versionName": "10.8.10"}
